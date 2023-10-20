@@ -4,6 +4,7 @@ A simple and non optimized implementation of relational algebra operators, based
 ## Unary operators :
 - Selection operator : σ, to filter rows
 - Projection operator : ∏, to select columns
+- Renaming operator : ρ, to change a column name
 
 ## Binary operators :
 - Union operator : ∪, to get A and B elements without duplicates
