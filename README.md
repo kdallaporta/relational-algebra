@@ -17,3 +17,6 @@ A simple and non optimized implementation of relational algebra operators, based
 - Theta Join : ⋈θ, to filter a cartesian product on a condition
 - Semi join : ⋉, keep rows of A when their value of one column are included in a column B
 - Antijoin : ▷, the inverse of a Semi join
+- Left Outer Join : ⟕, join allowing empty values of B
+- Right Outer Join : ⟖, join allowing empty values of A
+- Full Outer Join : ⟗, join allowing empty values of A and B
