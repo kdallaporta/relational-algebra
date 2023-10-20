@@ -16,3 +16,4 @@ A simple and non optimized implementation of relational algebra operators, based
 - Join : ⋈, to add columns from another dataframe using a key
 - Theta Join : ⋈θ, to filter a cartesian product on a condition
 - Semi join : ⋉, keep rows of A when their value of one column are included in a column B
+- Antijoin : ▷, the inverse of a Semi join
